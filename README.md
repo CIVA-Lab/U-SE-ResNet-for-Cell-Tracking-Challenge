@@ -56,7 +56,7 @@ The described network produces two output maps. The first output map is a binary
 
 ```SW``` folder contains all scripts used to train and test models. More details on how to train and test the code is mentioned inside ```SW``` folder.
 
-Train and test data should be put inside ```Data``` folder. More details about data hierarchy is mendioned inside ```Data``` folder.
+Train and test data should be placed inside ```Data``` folder. More details about data hierarchy is mentioned inside ```Data``` folder.
 
 <br/>
 
