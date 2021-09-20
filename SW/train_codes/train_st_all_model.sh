@@ -1,0 +1,1 @@
+python train_all.py --dataset Combined-All --resize_to 512 512 --train_resolution 256 256

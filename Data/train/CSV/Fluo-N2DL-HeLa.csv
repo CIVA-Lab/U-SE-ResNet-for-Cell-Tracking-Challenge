@@ -1,0 +1,5 @@
+image,label
+/../../Data/train/Fluo-N2DL-HeLa/01/t013.tif,/../../Data/train/Fluo-N2DL-HeLa/01_GT/SEG/man_seg013.tif
+/../../Data/train/Fluo-N2DL-HeLa/01/t052.tif,/../../Data/train/Fluo-N2DL-HeLa/01_GT/SEG/man_seg052.tif
+/../../Data/train/Fluo-N2DL-HeLa/02/t075.tif,/../../Data/train/Fluo-N2DL-HeLa/02_GT/SEG/man_seg075.tif
+/../../Data/train/Fluo-N2DL-HeLa/02/t079.tif,/../../Data/train/Fluo-N2DL-HeLa/02_GT/SEG/man_seg079.tif

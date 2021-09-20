@@ -1,0 +1,10 @@
+image,label
+/../../Data/train/Fluo-N3DH-CE-2D/01/t021_024.tif,/../../Data/train/Fluo-N3DH-CE-2D/01_GT/SEG/man_seg_021_024.tif
+/../../Data/train/Fluo-N3DH-CE-2D/01/t028_018.tif,/../../Data/train/Fluo-N3DH-CE-2D/01_GT/SEG/man_seg_028_018.tif
+/../../Data/train/Fluo-N3DH-CE-2D/01/t078_017.tif,/../../Data/train/Fluo-N3DH-CE-2D/01_GT/SEG/man_seg_078_017.tif
+/../../Data/train/Fluo-N3DH-CE-2D/01/t162_010.tif,/../../Data/train/Fluo-N3DH-CE-2D/01_GT/SEG/man_seg_162_010.tif
+/../../Data/train/Fluo-N3DH-CE-2D/02/t010_018.tif,/../../Data/train/Fluo-N3DH-CE-2D/02_GT/SEG/man_seg_010_018.tif
+/../../Data/train/Fluo-N3DH-CE-2D/02/t012_016.tif,/../../Data/train/Fluo-N3DH-CE-2D/02_GT/SEG/man_seg_012_016.tif
+/../../Data/train/Fluo-N3DH-CE-2D/02/t106_020.tif,/../../Data/train/Fluo-N3DH-CE-2D/02_GT/SEG/man_seg_106_020.tif
+/../../Data/train/Fluo-N3DH-CE-2D/02/t120_019.tif,/../../Data/train/Fluo-N3DH-CE-2D/02_GT/SEG/man_seg_120_019.tif
+/../../Data/train/Fluo-N3DH-CE-2D/02/t126_017.tif,/../../Data/train/Fluo-N3DH-CE-2D/02_GT/SEG/man_seg_126_017.tif

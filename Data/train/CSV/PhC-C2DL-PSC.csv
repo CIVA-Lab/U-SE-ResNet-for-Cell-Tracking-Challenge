@@ -1,0 +1,5 @@
+image,label
+/../../Data/train/PhC-C2DL-PSC/01/t098.tif,/../../Data/train/PhC-C2DL-PSC/01_GT/SEG/man_seg098.tif
+/../../Data/train/PhC-C2DL-PSC/01/t122.tif,/../../Data/train/PhC-C2DL-PSC/01_GT/SEG/man_seg122.tif
+/../../Data/train/PhC-C2DL-PSC/02/t025.tif,/../../Data/train/PhC-C2DL-PSC/02_GT/SEG/man_seg025.tif
+/../../Data/train/PhC-C2DL-PSC/02/t182.tif,/../../Data/train/PhC-C2DL-PSC/02_GT/SEG/man_seg182.tif
