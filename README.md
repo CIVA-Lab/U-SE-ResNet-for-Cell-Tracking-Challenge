@@ -66,7 +66,7 @@ Train and test data should be placed inside ```Data``` folder. More details abou
 
 Copyright &copy; 2021-2022. Gani Rahmon, Imad Eddine Toubal and Dr. K. Palaniappan and Curators of the University of Missouri, a public corporation. All Rights Reserved.
 
-**Created by:** Ph.D. student: Gani Rahmon  
+**Created by:** Ph.D. students: Gani Rahmon and Imad Eddine Toubal
 Department of Electrical Engineering and Computer Science,  
 University of Missouri-Columbia  
 
